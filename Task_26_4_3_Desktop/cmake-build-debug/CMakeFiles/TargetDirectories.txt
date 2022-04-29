@@ -1,0 +1,3 @@
+C:/Users/Iurii/CLionProjects/Task_26_4_3_Desktop/cmake-build-debug/CMakeFiles/Task_26_4_3_Desktop.dir
+C:/Users/Iurii/CLionProjects/Task_26_4_3_Desktop/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Iurii/CLionProjects/Task_26_4_3_Desktop/cmake-build-debug/CMakeFiles/rebuild_cache.dir

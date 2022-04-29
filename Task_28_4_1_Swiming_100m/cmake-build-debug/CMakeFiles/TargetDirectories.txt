@@ -1,0 +1,3 @@
+C:/Users/Iurii/CLionProjects/Task_28_4_1_Swiming_100m/cmake-build-debug/CMakeFiles/Task_28_4_1_Swiming_100m.dir
+C:/Users/Iurii/CLionProjects/Task_28_4_1_Swiming_100m/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Iurii/CLionProjects/Task_28_4_1_Swiming_100m/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/Iurii/CLionProjects/Task_14_6_2_Email_correct/cmake-build-debug/CMakeFiles/Task_14_6_2_Email_correct.dir
+C:/Users/Iurii/CLionProjects/Task_14_6_2_Email_correct/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Iurii/CLionProjects/Task_14_6_2_Email_correct/cmake-build-debug/CMakeFiles/rebuild_cache.dir

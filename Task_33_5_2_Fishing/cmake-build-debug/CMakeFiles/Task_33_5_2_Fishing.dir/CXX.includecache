@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Iurii/CLionProjects/Task_33_5_2_Fishing/main.cpp
+iostream
+-
+exception
+-
+time.h
+-
+string
+-
+

@@ -1,0 +1,4 @@
+C:/Users/Iurii/CLionProjects/Qt_/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Iurii/CLionProjects/Qt_/cmake-build-debug/CMakeFiles/Qt_.dir
+C:/Users/Iurii/CLionProjects/Qt_/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Iurii/CLionProjects/Qt_/cmake-build-debug/CMakeFiles/Qt__autogen.dir

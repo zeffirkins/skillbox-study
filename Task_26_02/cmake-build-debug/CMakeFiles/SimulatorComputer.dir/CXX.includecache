@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Iurii/CLionProjects/Task_26_02/main.cpp
+iostream
+-
+string
+-
+cpu.h
+C:/Users/Iurii/CLionProjects/Task_26_02/cpu.h
+disk.h
+C:/Users/Iurii/CLionProjects/Task_26_02/disk.h
+gbu.h
+C:/Users/Iurii/CLionProjects/Task_26_02/gbu.h
+kbd.h
+C:/Users/Iurii/CLionProjects/Task_26_02/kbd.h
+ram.h
+C:/Users/Iurii/CLionProjects/Task_26_02/ram.h
+

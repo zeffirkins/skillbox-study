@@ -1,0 +1,3 @@
+C:/Users/Iurii/CLionProjects/Task_33_5_4_Average/cmake-build-debug/CMakeFiles/Task_33_5_4_Average.dir
+C:/Users/Iurii/CLionProjects/Task_33_5_4_Average/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Iurii/CLionProjects/Task_33_5_4_Average/cmake-build-debug/CMakeFiles/rebuild_cache.dir

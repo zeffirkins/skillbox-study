@@ -1,0 +1,3 @@
+C:/Users/Iurii/CLionProjects/Task_12_6_3_Level_Self-isolation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Iurii/CLionProjects/Task_12_6_3_Level_Self-isolation/cmake-build-debug/CMakeFiles/Task_12_6_3_Level_Self_isolation.dir
+C:/Users/Iurii/CLionProjects/Task_12_6_3_Level_Self-isolation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

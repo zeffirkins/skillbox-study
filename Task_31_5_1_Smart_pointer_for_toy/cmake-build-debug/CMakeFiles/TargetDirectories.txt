@@ -1,0 +1,3 @@
+C:/Users/Iurii/CLionProjects/Task_31_5_1_Smart_pointer_for_toy/cmake-build-debug/CMakeFiles/Task_31_5_1_Smart_pointer_for_toy.dir
+C:/Users/Iurii/CLionProjects/Task_31_5_1_Smart_pointer_for_toy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Iurii/CLionProjects/Task_31_5_1_Smart_pointer_for_toy/cmake-build-debug/CMakeFiles/rebuild_cache.dir

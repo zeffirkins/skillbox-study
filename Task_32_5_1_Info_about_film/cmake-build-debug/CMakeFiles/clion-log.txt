@@ -1,0 +1,5 @@
+"C:\Program Files\JetBrains\CLion 2020.3.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" C:\Users\Iurii\CLionProjects\Task_32_5_1_Info_about_film
+-- Using the single-header code from C:/Users/Iurii/CLionProjects/Task_32_5_1_Info_about_film/nlohmann_json/single_include/
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Iurii/CLionProjects/Task_32_5_1_Info_about_film/cmake-build-debug

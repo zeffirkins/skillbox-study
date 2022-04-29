@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Iurii/CLionProjects/Task_28_4_3_Online_restaurant/main.cpp
+iostream
+-
+thread
+-
+chrono
+-
+mutex
+-
+vector
+-
+ctime
+-
+string
+-
+

@@ -1,0 +1,3 @@
+C:/Users/Iurii/CLionProjects/Task_33_5_3_Reestr_data/cmake-build-debug/CMakeFiles/Task_33_5_3_Reestr_data.dir
+C:/Users/Iurii/CLionProjects/Task_33_5_3_Reestr_data/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Iurii/CLionProjects/Task_33_5_3_Reestr_data/cmake-build-debug/CMakeFiles/rebuild_cache.dir

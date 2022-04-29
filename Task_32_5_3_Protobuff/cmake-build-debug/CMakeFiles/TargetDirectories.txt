@@ -1,0 +1,3 @@
+C:/Users/Iurii/CLionProjects/Task_32_5_3_Protobuff/cmake-build-debug/CMakeFiles/Task_32_5_3_Protobuff.dir
+C:/Users/Iurii/CLionProjects/Task_32_5_3_Protobuff/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Iurii/CLionProjects/Task_32_5_3_Protobuff/cmake-build-debug/CMakeFiles/rebuild_cache.dir

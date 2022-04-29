@@ -1,0 +1,3 @@
+C:/Users/Iurii/CLionProjects/Task_28_4_3_Online_restaurant/cmake-build-debug/CMakeFiles/Task_28_4_3_Online_restaurant.dir
+C:/Users/Iurii/CLionProjects/Task_28_4_3_Online_restaurant/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Iurii/CLionProjects/Task_28_4_3_Online_restaurant/cmake-build-debug/CMakeFiles/rebuild_cache.dir

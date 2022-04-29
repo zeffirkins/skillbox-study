@@ -1,0 +1,4 @@
+Name: nlohmann_json
+Description: JSON for Modern C++
+Version: 3.10.5
+Cflags: -IC:/Program Files (x86)/Task_32_5_1_Info_about_film/include

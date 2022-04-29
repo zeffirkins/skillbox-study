@@ -1,0 +1,5 @@
+C:/Users/Iurii/CLionProjects/Task_32_5_2_Analysis_info_film/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Iurii/CLionProjects/Task_32_5_2_Analysis_info_film/cmake-build-debug/CMakeFiles/Task_32_5_2_Analysis_info_film.dir
+C:/Users/Iurii/CLionProjects/Task_32_5_2_Analysis_info_film/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Iurii/CLionProjects/Task_32_5_2_Analysis_info_film/cmake-build-debug/nlohmann_json/CMakeFiles/edit_cache.dir
+C:/Users/Iurii/CLionProjects/Task_32_5_2_Analysis_info_film/cmake-build-debug/nlohmann_json/CMakeFiles/rebuild_cache.dir

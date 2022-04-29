@@ -1,0 +1,3 @@
+C:/Users/Iurii/CLionProjects/Task_29_4_1_Meeting_v2/cmake-build-debug/CMakeFiles/Task_29_4_1_Meeting_v2.dir
+C:/Users/Iurii/CLionProjects/Task_29_4_1_Meeting_v2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Iurii/CLionProjects/Task_29_4_1_Meeting_v2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

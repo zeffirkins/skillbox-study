@@ -1,0 +1,3 @@
+C:/Users/Iurii/CLionProjects/Task_14_6_5_X_&_0/cmake-build-debug/CMakeFiles/Task_14_6_5_X___0.dir
+C:/Users/Iurii/CLionProjects/Task_14_6_5_X_&_0/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Iurii/CLionProjects/Task_14_6_5_X_&_0/cmake-build-debug/CMakeFiles/rebuild_cache.dir

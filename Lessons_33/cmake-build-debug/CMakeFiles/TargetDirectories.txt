@@ -1,0 +1,3 @@
+C:/Users/Iurii/CLionProjects/Lessons_33/cmake-build-debug/CMakeFiles/Lessons_33.dir
+C:/Users/Iurii/CLionProjects/Lessons_33/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Iurii/CLionProjects/Lessons_33/cmake-build-debug/CMakeFiles/rebuild_cache.dir

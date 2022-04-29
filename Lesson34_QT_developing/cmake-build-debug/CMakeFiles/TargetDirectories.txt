@@ -1,0 +1,3 @@
+C:/Users/Iurii/CLionProjects/Lesson34_QT_developing/cmake-build-debug/CMakeFiles/Lesson34_QT_developing.dir
+C:/Users/Iurii/CLionProjects/Lesson34_QT_developing/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Iurii/CLionProjects/Lesson34_QT_developing/cmake-build-debug/CMakeFiles/rebuild_cache.dir

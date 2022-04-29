@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Iurii/CLionProjects/task_28_4_2_Railway_simulator/main.cpp
+iostream
+-
+thread
+-
+chrono
+-
+mutex
+-
+vector
+-
+string
+-
+

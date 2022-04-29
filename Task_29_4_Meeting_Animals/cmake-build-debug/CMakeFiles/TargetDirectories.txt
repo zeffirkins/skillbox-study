@@ -1,0 +1,2 @@
+C:/Users/Iurii/CLionProjects/Task_29_4_Meeting_Animals/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Iurii/CLionProjects/Task_29_4_Meeting_Animals/cmake-build-debug/CMakeFiles/rebuild_cache.dir

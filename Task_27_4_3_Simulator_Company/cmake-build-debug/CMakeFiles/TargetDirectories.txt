@@ -1,0 +1,3 @@
+C:/Users/Iurii/CLionProjects/Task_27_4_3_Simulator_Company/cmake-build-debug/CMakeFiles/Task_27_4_3_Simulator_Company.dir
+C:/Users/Iurii/CLionProjects/Task_27_4_3_Simulator_Company/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Iurii/CLionProjects/Task_27_4_3_Simulator_Company/cmake-build-debug/CMakeFiles/rebuild_cache.dir
