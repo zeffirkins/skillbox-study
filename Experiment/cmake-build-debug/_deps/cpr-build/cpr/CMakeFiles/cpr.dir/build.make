@@ -69,253 +69,253 @@ _deps/cpr-build/cpr/CMakeFiles/cpr.dir/auth.cpp.obj: _deps/cpr-build/cpr/CMakeFi
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/auth.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/includes_CXX.rsp
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/auth.cpp.obj: _deps/cpr-src/cpr/auth.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object _deps/cpr-build/cpr/CMakeFiles/cpr.dir/auth.cpp.obj"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\auth.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\auth.cpp
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\auth.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\auth.cpp
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/auth.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpr.dir/auth.cpp.i"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\auth.cpp > CMakeFiles\cpr.dir\auth.cpp.i
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\auth.cpp > CMakeFiles\cpr.dir\auth.cpp.i
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/auth.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpr.dir/auth.cpp.s"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\auth.cpp -o CMakeFiles\cpr.dir\auth.cpp.s
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\auth.cpp -o CMakeFiles\cpr.dir\auth.cpp.s
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/bearer.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/flags.make
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/bearer.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/includes_CXX.rsp
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/bearer.cpp.obj: _deps/cpr-src/cpr/bearer.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object _deps/cpr-build/cpr/CMakeFiles/cpr.dir/bearer.cpp.obj"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\bearer.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\bearer.cpp
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\bearer.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\bearer.cpp
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/bearer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpr.dir/bearer.cpp.i"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\bearer.cpp > CMakeFiles\cpr.dir\bearer.cpp.i
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\bearer.cpp > CMakeFiles\cpr.dir\bearer.cpp.i
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/bearer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpr.dir/bearer.cpp.s"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\bearer.cpp -o CMakeFiles\cpr.dir\bearer.cpp.s
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\bearer.cpp -o CMakeFiles\cpr.dir\bearer.cpp.s
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/cookies.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/flags.make
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/cookies.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/includes_CXX.rsp
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/cookies.cpp.obj: _deps/cpr-src/cpr/cookies.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object _deps/cpr-build/cpr/CMakeFiles/cpr.dir/cookies.cpp.obj"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\cookies.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\cookies.cpp
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\cookies.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\cookies.cpp
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/cookies.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpr.dir/cookies.cpp.i"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\cookies.cpp > CMakeFiles\cpr.dir\cookies.cpp.i
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\cookies.cpp > CMakeFiles\cpr.dir\cookies.cpp.i
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/cookies.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpr.dir/cookies.cpp.s"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\cookies.cpp -o CMakeFiles\cpr.dir\cookies.cpp.s
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\cookies.cpp -o CMakeFiles\cpr.dir\cookies.cpp.s
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/cprtypes.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/flags.make
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/cprtypes.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/includes_CXX.rsp
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/cprtypes.cpp.obj: _deps/cpr-src/cpr/cprtypes.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object _deps/cpr-build/cpr/CMakeFiles/cpr.dir/cprtypes.cpp.obj"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\cprtypes.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\cprtypes.cpp
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\cprtypes.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\cprtypes.cpp
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/cprtypes.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpr.dir/cprtypes.cpp.i"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\cprtypes.cpp > CMakeFiles\cpr.dir\cprtypes.cpp.i
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\cprtypes.cpp > CMakeFiles\cpr.dir\cprtypes.cpp.i
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/cprtypes.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpr.dir/cprtypes.cpp.s"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\cprtypes.cpp -o CMakeFiles\cpr.dir\cprtypes.cpp.s
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\cprtypes.cpp -o CMakeFiles\cpr.dir\cprtypes.cpp.s
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/curl_container.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/flags.make
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/curl_container.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/includes_CXX.rsp
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/curl_container.cpp.obj: _deps/cpr-src/cpr/curl_container.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object _deps/cpr-build/cpr/CMakeFiles/cpr.dir/curl_container.cpp.obj"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\curl_container.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\curl_container.cpp
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\curl_container.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\curl_container.cpp
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/curl_container.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpr.dir/curl_container.cpp.i"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\curl_container.cpp > CMakeFiles\cpr.dir\curl_container.cpp.i
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\curl_container.cpp > CMakeFiles\cpr.dir\curl_container.cpp.i
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/curl_container.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpr.dir/curl_container.cpp.s"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\curl_container.cpp -o CMakeFiles\cpr.dir\curl_container.cpp.s
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\curl_container.cpp -o CMakeFiles\cpr.dir\curl_container.cpp.s
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/curlholder.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/flags.make
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/curlholder.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/includes_CXX.rsp
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/curlholder.cpp.obj: _deps/cpr-src/cpr/curlholder.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object _deps/cpr-build/cpr/CMakeFiles/cpr.dir/curlholder.cpp.obj"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\curlholder.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\curlholder.cpp
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\curlholder.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\curlholder.cpp
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/curlholder.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpr.dir/curlholder.cpp.i"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\curlholder.cpp > CMakeFiles\cpr.dir\curlholder.cpp.i
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\curlholder.cpp > CMakeFiles\cpr.dir\curlholder.cpp.i
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/curlholder.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpr.dir/curlholder.cpp.s"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\curlholder.cpp -o CMakeFiles\cpr.dir\curlholder.cpp.s
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\curlholder.cpp -o CMakeFiles\cpr.dir\curlholder.cpp.s
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/error.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/flags.make
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/error.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/includes_CXX.rsp
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/error.cpp.obj: _deps/cpr-src/cpr/error.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object _deps/cpr-build/cpr/CMakeFiles/cpr.dir/error.cpp.obj"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\error.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\error.cpp
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\error.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\error.cpp
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/error.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpr.dir/error.cpp.i"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\error.cpp > CMakeFiles\cpr.dir\error.cpp.i
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\error.cpp > CMakeFiles\cpr.dir\error.cpp.i
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/error.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpr.dir/error.cpp.s"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\error.cpp -o CMakeFiles\cpr.dir\error.cpp.s
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\error.cpp -o CMakeFiles\cpr.dir\error.cpp.s
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/multipart.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/flags.make
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/multipart.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/includes_CXX.rsp
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/multipart.cpp.obj: _deps/cpr-src/cpr/multipart.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object _deps/cpr-build/cpr/CMakeFiles/cpr.dir/multipart.cpp.obj"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\multipart.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\multipart.cpp
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\multipart.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\multipart.cpp
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/multipart.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpr.dir/multipart.cpp.i"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\multipart.cpp > CMakeFiles\cpr.dir\multipart.cpp.i
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\multipart.cpp > CMakeFiles\cpr.dir\multipart.cpp.i
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/multipart.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpr.dir/multipart.cpp.s"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\multipart.cpp -o CMakeFiles\cpr.dir\multipart.cpp.s
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\multipart.cpp -o CMakeFiles\cpr.dir\multipart.cpp.s
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/parameters.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/flags.make
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/parameters.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/includes_CXX.rsp
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/parameters.cpp.obj: _deps/cpr-src/cpr/parameters.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object _deps/cpr-build/cpr/CMakeFiles/cpr.dir/parameters.cpp.obj"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\parameters.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\parameters.cpp
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\parameters.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\parameters.cpp
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/parameters.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpr.dir/parameters.cpp.i"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\parameters.cpp > CMakeFiles\cpr.dir\parameters.cpp.i
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\parameters.cpp > CMakeFiles\cpr.dir\parameters.cpp.i
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/parameters.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpr.dir/parameters.cpp.s"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\parameters.cpp -o CMakeFiles\cpr.dir\parameters.cpp.s
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\parameters.cpp -o CMakeFiles\cpr.dir\parameters.cpp.s
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/payload.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/flags.make
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/payload.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/includes_CXX.rsp
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/payload.cpp.obj: _deps/cpr-src/cpr/payload.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object _deps/cpr-build/cpr/CMakeFiles/cpr.dir/payload.cpp.obj"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\payload.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\payload.cpp
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\payload.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\payload.cpp
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/payload.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpr.dir/payload.cpp.i"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\payload.cpp > CMakeFiles\cpr.dir\payload.cpp.i
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\payload.cpp > CMakeFiles\cpr.dir\payload.cpp.i
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/payload.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpr.dir/payload.cpp.s"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\payload.cpp -o CMakeFiles\cpr.dir\payload.cpp.s
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\payload.cpp -o CMakeFiles\cpr.dir\payload.cpp.s
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/proxies.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/flags.make
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/proxies.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/includes_CXX.rsp
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/proxies.cpp.obj: _deps/cpr-src/cpr/proxies.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object _deps/cpr-build/cpr/CMakeFiles/cpr.dir/proxies.cpp.obj"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\proxies.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\proxies.cpp
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\proxies.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\proxies.cpp
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/proxies.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpr.dir/proxies.cpp.i"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\proxies.cpp > CMakeFiles\cpr.dir\proxies.cpp.i
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\proxies.cpp > CMakeFiles\cpr.dir\proxies.cpp.i
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/proxies.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpr.dir/proxies.cpp.s"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\proxies.cpp -o CMakeFiles\cpr.dir\proxies.cpp.s
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\proxies.cpp -o CMakeFiles\cpr.dir\proxies.cpp.s
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/proxyauth.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/flags.make
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/proxyauth.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/includes_CXX.rsp
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/proxyauth.cpp.obj: _deps/cpr-src/cpr/proxyauth.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object _deps/cpr-build/cpr/CMakeFiles/cpr.dir/proxyauth.cpp.obj"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\proxyauth.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\proxyauth.cpp
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\proxyauth.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\proxyauth.cpp
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/proxyauth.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpr.dir/proxyauth.cpp.i"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\proxyauth.cpp > CMakeFiles\cpr.dir\proxyauth.cpp.i
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\proxyauth.cpp > CMakeFiles\cpr.dir\proxyauth.cpp.i
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/proxyauth.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpr.dir/proxyauth.cpp.s"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\proxyauth.cpp -o CMakeFiles\cpr.dir\proxyauth.cpp.s
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\proxyauth.cpp -o CMakeFiles\cpr.dir\proxyauth.cpp.s
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/session.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/flags.make
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/session.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/includes_CXX.rsp
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/session.cpp.obj: _deps/cpr-src/cpr/session.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object _deps/cpr-build/cpr/CMakeFiles/cpr.dir/session.cpp.obj"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\session.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\session.cpp
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\session.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\session.cpp
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/session.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpr.dir/session.cpp.i"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\session.cpp > CMakeFiles\cpr.dir\session.cpp.i
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\session.cpp > CMakeFiles\cpr.dir\session.cpp.i
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/session.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpr.dir/session.cpp.s"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\session.cpp -o CMakeFiles\cpr.dir\session.cpp.s
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\session.cpp -o CMakeFiles\cpr.dir\session.cpp.s
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/timeout.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/flags.make
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/timeout.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/includes_CXX.rsp
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/timeout.cpp.obj: _deps/cpr-src/cpr/timeout.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object _deps/cpr-build/cpr/CMakeFiles/cpr.dir/timeout.cpp.obj"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\timeout.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\timeout.cpp
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\timeout.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\timeout.cpp
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/timeout.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpr.dir/timeout.cpp.i"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\timeout.cpp > CMakeFiles\cpr.dir\timeout.cpp.i
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\timeout.cpp > CMakeFiles\cpr.dir\timeout.cpp.i
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/timeout.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpr.dir/timeout.cpp.s"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\timeout.cpp -o CMakeFiles\cpr.dir\timeout.cpp.s
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\timeout.cpp -o CMakeFiles\cpr.dir\timeout.cpp.s
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/unix_socket.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/flags.make
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/unix_socket.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/includes_CXX.rsp
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/unix_socket.cpp.obj: _deps/cpr-src/cpr/unix_socket.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object _deps/cpr-build/cpr/CMakeFiles/cpr.dir/unix_socket.cpp.obj"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\unix_socket.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\unix_socket.cpp
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\unix_socket.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\unix_socket.cpp
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/unix_socket.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpr.dir/unix_socket.cpp.i"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\unix_socket.cpp > CMakeFiles\cpr.dir\unix_socket.cpp.i
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\unix_socket.cpp > CMakeFiles\cpr.dir\unix_socket.cpp.i
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/unix_socket.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpr.dir/unix_socket.cpp.s"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\unix_socket.cpp -o CMakeFiles\cpr.dir\unix_socket.cpp.s
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\unix_socket.cpp -o CMakeFiles\cpr.dir\unix_socket.cpp.s
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/util.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/flags.make
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/util.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/includes_CXX.rsp
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/util.cpp.obj: _deps/cpr-src/cpr/util.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object _deps/cpr-build/cpr/CMakeFiles/cpr.dir/util.cpp.obj"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\util.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\util.cpp
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\util.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\util.cpp
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/util.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpr.dir/util.cpp.i"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\util.cpp > CMakeFiles\cpr.dir\util.cpp.i
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\util.cpp > CMakeFiles\cpr.dir\util.cpp.i
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/util.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpr.dir/util.cpp.s"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\util.cpp -o CMakeFiles\cpr.dir\util.cpp.s
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\util.cpp -o CMakeFiles\cpr.dir\util.cpp.s
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/response.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/flags.make
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/response.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/includes_CXX.rsp
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/response.cpp.obj: _deps/cpr-src/cpr/response.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object _deps/cpr-build/cpr/CMakeFiles/cpr.dir/response.cpp.obj"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\response.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\response.cpp
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\response.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\response.cpp
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/response.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpr.dir/response.cpp.i"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\response.cpp > CMakeFiles\cpr.dir\response.cpp.i
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\response.cpp > CMakeFiles\cpr.dir\response.cpp.i
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/response.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpr.dir/response.cpp.s"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\response.cpp -o CMakeFiles\cpr.dir\response.cpp.s
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\response.cpp -o CMakeFiles\cpr.dir\response.cpp.s
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/redirect.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/flags.make
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/redirect.cpp.obj: _deps/cpr-build/cpr/CMakeFiles/cpr.dir/includes_CXX.rsp
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/redirect.cpp.obj: _deps/cpr-src/cpr/redirect.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object _deps/cpr-build/cpr/CMakeFiles/cpr.dir/redirect.cpp.obj"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\redirect.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\redirect.cpp
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpr.dir\redirect.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\redirect.cpp
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/redirect.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpr.dir/redirect.cpp.i"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\redirect.cpp > CMakeFiles\cpr.dir\redirect.cpp.i
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\redirect.cpp > CMakeFiles\cpr.dir\redirect.cpp.i
 
 _deps/cpr-build/cpr/CMakeFiles/cpr.dir/redirect.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpr.dir/redirect.cpp.s"
-	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\redirect.cpp -o CMakeFiles\cpr.dir\redirect.cpp.s
+	cd /d C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-build\cpr && C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\_deps\cpr-src\cpr\redirect.cpp -o CMakeFiles\cpr.dir\redirect.cpp.s
 
 # Object files for target cpr
 cpr_OBJECTS = \

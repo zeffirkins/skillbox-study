@@ -1,90 +1,39 @@
 #include <iostream>
-#include <memory>
-
+#include <vector>
+#include <algorithm>
+#include "tuple"
+#include <unordered_set>
+#include <unordered_map>
+#include <filesystem>
 using namespace std;
 
-class Toy {
-public:
-    Toy(string _name) : name(_name) {};
-    Toy () : name("SomeToy") {};
-private:
-    string name;
-};
-
-class smart_ptr_toy {
-private:
-    Toy *obj;
-public:
-    smart_ptr_toy() {
-        obj = new Toy("SomeName");
+auto averageAndExtremums = [] (vector<int> vec) {
+    int avg, min, max;
+    int accum = 0;
+    for (auto i: vec) {
+        accum += vec[i];
     }
 
-    smart_ptr_toy(string name) {
-        obj = new Toy(name);
-    }
+    max = *max_element(vec.begin(), vec.end());
+    min = *min_element(vec.begin(), vec.end());
+    avg = accum / vec.size();
 
-    smart_ptr_toy(const smart_ptr_toy &oth) {
-        obj = new Toy(*oth.obj);
-    }
-
-    smart_ptr_toy& operator = (const smart_ptr_toy& oth) {
-        if (this == &oth) return *this;
-        if (obj != nullptr) delete obj;
-        obj = new Toy(*oth.obj);
-        return *this;
-    }
-
-    ~smart_ptr_toy() {
-        delete obj;
-    }
-};
-
-class Dog  {
-
-public:
-    Dog(string _name, shared_ptr<Toy> toy, int _age) : name(_name), lovelyToy(toy) {
-        if (_age >= 0 && _age < 30) {
-            age = _age;
-        }
-    }
-
-    Dog() : Dog ("Snow", make_shared<Toy>("SomeToy"), 0) {};
-    Dog(string _name) : Dog(_name,make_shared<Toy>("SomeToy"), 0) {};
-    Dog (int _age) : Dog("Snow",make_shared<Toy>("SomeToy"), _age) {};
-
-    void copyLovelyToy(const Dog& oth) {
-        lovelyToy = oth.lovelyToy;
-    }
-
-    void setBestie (shared_ptr<Dog> _bestie) {
-        bestie = _bestie;
-    }
-
-private:
-    string name;
-    int age;
-    shared_ptr<Toy> lovelyToy;
-    weak_ptr<Dog> bestie;
+    return tuple<int, int, int>{avg, min, max};
 };
 
 
-int main() {
-    shared_ptr<Toy> ball = make_shared<Toy>("Ball");
-    shared_ptr<Toy> bone = make_shared<Toy>("Bone");
+int main () {
+    vector<int> vec = {2, 3, 5, 1, 4};
+    auto results = averageAndExtremums (vec);
+    cout << get<1>(results);
 
-    shared_ptr<Dog> a = make_shared<Dog>("Sharik", ball, 10);
-    shared_ptr<Dog> b = make_shared<Dog>("Druzhok", ball, 11);
-    shared_ptr<Dog> c = make_shared<Dog>("Pushok", ball, 12);
+    unordered_map<string, int> m;
 
-    a->setBestie(b);
-    b->setBestie(a);
+    unordered_set<string> strings = {"first", "second", "third"};
 
-    Dog* pa = a.get();
-    Dog* pb = b.get();
+    if (strings.count("first"))
+        cout << "already exist";
 
-    a.reset();
-    b.reset();
+    filesystem::path p("Users/Iurii/file.txt");
 
-    ball.reset();
-    bone.reset();
 }

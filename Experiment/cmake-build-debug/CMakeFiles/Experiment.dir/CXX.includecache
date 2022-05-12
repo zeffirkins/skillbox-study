@@ -9,6 +9,16 @@
 C:/Users/Iurii/CLionProjects/Experiment/main.cpp
 iostream
 -
-memory
+vector
+-
+algorithm
+-
+tuple
+C:/Users/Iurii/CLionProjects/Experiment/tuple
+unordered_set
+-
+unordered_map
+-
+filesystem
 -
 

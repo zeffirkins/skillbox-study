@@ -69,15 +69,15 @@ CMakeFiles/Experiment.dir/main.cpp.obj: CMakeFiles/Experiment.dir/flags.make
 CMakeFiles/Experiment.dir/main.cpp.obj: CMakeFiles/Experiment.dir/includes_CXX.rsp
 CMakeFiles/Experiment.dir/main.cpp.obj: ../main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Iurii\CLionProjects\Experiment\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Experiment.dir/main.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Experiment.dir\main.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\main.cpp
+	C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Experiment.dir\main.cpp.obj -c C:\Users\Iurii\CLionProjects\Experiment\main.cpp
 
 CMakeFiles/Experiment.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Experiment.dir/main.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\main.cpp > CMakeFiles\Experiment.dir\main.cpp.i
+	C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Iurii\CLionProjects\Experiment\main.cpp > CMakeFiles\Experiment.dir\main.cpp.i
 
 CMakeFiles/Experiment.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Experiment.dir/main.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\main.cpp -o CMakeFiles\Experiment.dir\main.cpp.s
+	C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Iurii\CLionProjects\Experiment\main.cpp -o CMakeFiles\Experiment.dir\main.cpp.s
 
 # Object files for target Experiment
 Experiment_OBJECTS = \

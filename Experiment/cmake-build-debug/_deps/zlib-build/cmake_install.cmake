@@ -34,7 +34,7 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "C:/Qt/Tools/mingw810_64/bin/objdump.exe")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
@@ -62,7 +62,7 @@ file(INSTALL DESTINATION "C:/Program Files (x86)/Experiment/bin" TYPE SHARED_LIB
   if(EXISTS "$ENV{DESTDIR}/C:/Program Files (x86)/Experiment/bin/libzlib.dll" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}/C:/Program Files (x86)/Experiment/bin/libzlib.dll")
     if(CMAKE_INSTALL_DO_STRIP)
-      execute_process(COMMAND "C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/strip.exe" "$ENV{DESTDIR}/C:/Program Files (x86)/Experiment/bin/libzlib.dll")
+      execute_process(COMMAND "C:/Qt/Tools/mingw810_64/bin/strip.exe" "$ENV{DESTDIR}/C:/Program Files (x86)/Experiment/bin/libzlib.dll")
     endif()
   endif()
 endif()
