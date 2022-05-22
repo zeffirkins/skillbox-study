@@ -1,0 +1,4 @@
+C:/Users/Iurii/CLionProjects/Task_36_4_Circle_and_slider/cmake-build-debug/CMakeFiles/Task_36_4_Circle_and_slider.dir
+C:/Users/Iurii/CLionProjects/Task_36_4_Circle_and_slider/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Iurii/CLionProjects/Task_36_4_Circle_and_slider/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Iurii/CLionProjects/Task_36_4_Circle_and_slider/cmake-build-debug/CMakeFiles/Task_36_4_Circle_and_slider_autogen.dir

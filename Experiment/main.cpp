@@ -1,39 +1,25 @@
 #include <iostream>
 #include <vector>
-#include <algorithm>
-#include "tuple"
+#include <memory>
 #include <unordered_set>
-#include <unordered_map>
-#include <filesystem>
-using namespace std;
 
-auto averageAndExtremums = [] (vector<int> vec) {
-    int avg, min, max;
-    int accum = 0;
-    for (auto i: vec) {
-        accum += vec[i];
-    }
+std::ostream& operator<<(std::ostream& out, const std::vector<int>& v) {
+    for(auto element : v)
+        out << element << " ";
+    return out;
+}
 
-    max = *max_element(vec.begin(), vec.end());
-    min = *min_element(vec.begin(), vec.end());
-    avg = accum / vec.size();
+int main() {
+    auto getUniqueNumbers = [](const std::vector<int>& source)
+    {
+        std::unordered_set<int> storage {source.begin(), source.end()};
 
-    return tuple<int, int, int>{avg, min, max};
-};
+        return std::make_unique<std::vector<int>>(storage.begin(), storage.end());
+    };
 
+    auto source = {1,1,11,12,12,17,76,77,77,77,87,78,78,5,5,7,7,8,1};
+    std::cout << "Source: " << std::endl << source << std::endl;
 
-int main () {
-    vector<int> vec = {2, 3, 5, 1, 4};
-    auto results = averageAndExtremums (vec);
-    cout << get<1>(results);
-
-    unordered_map<string, int> m;
-
-    unordered_set<string> strings = {"first", "second", "third"};
-
-    if (strings.count("first"))
-        cout << "already exist";
-
-    filesystem::path p("Users/Iurii/file.txt");
-
+    auto listOfUniqueNumbers = getUniqueNumbers(source);
+    std::cout << "Unique numbers: " << std::endl << *listOfUniqueNumbers << std::endl;
 }

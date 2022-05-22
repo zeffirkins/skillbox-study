@@ -21,7 +21,7 @@ CMAKE_COLOR_MAKEFILE:BOOL=ON
 CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/curl-populate
 
 //No help, variable specified on the command line.
-CMAKE_MAKE_PROGRAM:FILEPATH=C:/Qt/Tools/mingw810_64/bin/mingw32-make.exe
+CMAKE_MAKE_PROGRAM:FILEPATH=C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe
 
 //Value Computed by CMake
 CMAKE_PROJECT_DESCRIPTION:STATIC=

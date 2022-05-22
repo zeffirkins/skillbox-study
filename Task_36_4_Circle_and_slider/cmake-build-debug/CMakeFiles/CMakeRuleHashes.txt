@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+4da9870edd7eb7d36c04291f7a2fbb66 CMakeFiles/Task_36_4_Circle_and_slider_autogen

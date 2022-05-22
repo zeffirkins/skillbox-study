@@ -4,6 +4,7 @@
 CMakeFiles/Qt_tutorial.dir/Qt_tutorial_autogen/mocs_compilation.cpp.obj: \
  Qt_tutorial_autogen/mocs_compilation.cpp
 CMakeFiles/Qt_tutorial.dir/main.cpp.obj: \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/QTimer \
  C:/Qt/5.15.2/mingw81_64/include/QtCore/qalgorithms.h \
  C:/Qt/5.15.2/mingw81_64/include/QtCore/qarraydata.h \
  C:/Qt/5.15.2/mingw81_64/include/QtCore/qatomic.h \
@@ -11,6 +12,7 @@ CMakeFiles/Qt_tutorial.dir/main.cpp.obj: \
  C:/Qt/5.15.2/mingw81_64/include/QtCore/qatomic_cxx11.h \
  C:/Qt/5.15.2/mingw81_64/include/QtCore/qatomic_msvc.h \
  C:/Qt/5.15.2/mingw81_64/include/QtCore/qbasicatomic.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/qbasictimer.h \
  C:/Qt/5.15.2/mingw81_64/include/QtCore/qbytearray.h \
  C:/Qt/5.15.2/mingw81_64/include/QtCore/qbytearraylist.h \
  C:/Qt/5.15.2/mingw81_64/include/QtCore/qchar.h \
@@ -72,6 +74,7 @@ CMakeFiles/Qt_tutorial.dir/main.cpp.obj: \
  C:/Qt/5.15.2/mingw81_64/include/QtCore/qsystemdetection.h \
  C:/Qt/5.15.2/mingw81_64/include/QtCore/qtcore-config.h \
  C:/Qt/5.15.2/mingw81_64/include/QtCore/qtextstream.h \
+ C:/Qt/5.15.2/mingw81_64/include/QtCore/qtimer.h \
  C:/Qt/5.15.2/mingw81_64/include/QtCore/qtypeinfo.h \
  C:/Qt/5.15.2/mingw81_64/include/QtCore/qurl.h \
  C:/Qt/5.15.2/mingw81_64/include/QtCore/qurlquery.h \
@@ -87,7 +90,6 @@ CMakeFiles/Qt_tutorial.dir/main.cpp.obj: \
  C:/Qt/5.15.2/mingw81_64/include/QtGui/qfontinfo.h \
  C:/Qt/5.15.2/mingw81_64/include/QtGui/qfontmetrics.h \
  C:/Qt/5.15.2/mingw81_64/include/QtGui/qguiapplication.h \
- C:/Qt/5.15.2/mingw81_64/include/QtGui/qicon.h \
  C:/Qt/5.15.2/mingw81_64/include/QtGui/qimage.h \
  C:/Qt/5.15.2/mingw81_64/include/QtGui/qinputmethod.h \
  C:/Qt/5.15.2/mingw81_64/include/QtGui/qkeysequence.h \
@@ -108,13 +110,11 @@ CMakeFiles/Qt_tutorial.dir/main.cpp.obj: \
  C:/Qt/5.15.2/mingw81_64/include/QtGui/qwindowdefs.h \
  C:/Qt/5.15.2/mingw81_64/include/QtGui/qwindowdefs_win.h \
  C:/Qt/5.15.2/mingw81_64/include/QtWidgets/QApplication \
- C:/Qt/5.15.2/mingw81_64/include/QtWidgets/QPushButton \
- C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qabstractbutton.h \
  C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qapplication.h \
  C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qdesktopwidget.h \
- C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qpushbutton.h \
  C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qsizepolicy.h \
  C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qtwidgets-config.h \
  C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qtwidgetsglobal.h \
  C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qwidget.h \
- ../main.cpp
+ ../main.cpp \
+ Qt_tutorial_autogen/include/main.moc

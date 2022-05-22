@@ -1,0 +1,4 @@
+C:/Users/Iurii/CLionProjects/Lessons_36/cmake-build-debug/CMakeFiles/Lessons_36.dir
+C:/Users/Iurii/CLionProjects/Lessons_36/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Iurii/CLionProjects/Lessons_36/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Iurii/CLionProjects/Lessons_36/cmake-build-debug/CMakeFiles/Lessons_36_autogen.dir

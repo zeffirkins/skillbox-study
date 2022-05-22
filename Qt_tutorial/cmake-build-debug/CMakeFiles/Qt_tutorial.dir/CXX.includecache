@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+C:/Qt/5.15.2/mingw81_64/include/QtCore/QTimer
+qtimer.h
+C:/Qt/5.15.2/mingw81_64/include/QtCore/qtimer.h
+
 C:/Qt/5.15.2/mingw81_64/include/QtCore/qalgorithms.h
 QtCore/qglobal.h
 -
@@ -46,6 +50,12 @@ QtCore/qatomic_bootstrap.h
 QtCore/qatomic_cxx11.h
 -
 QtCore/qatomic_msvc.h
+-
+
+C:/Qt/5.15.2/mingw81_64/include/QtCore/qbasictimer.h
+QtCore/qglobal.h
+-
+QtCore/qnamespace.h
 -
 
 C:/Qt/5.15.2/mingw81_64/include/QtCore/qbytearray.h
@@ -632,6 +642,16 @@ QtCore/qscopedpointer.h
 stdio.h
 -
 
+C:/Qt/5.15.2/mingw81_64/include/QtCore/qtimer.h
+QtCore/qglobal.h
+-
+QtCore/qbasictimer.h
+-
+QtCore/qobject.h
+-
+chrono
+-
+
 C:/Qt/5.15.2/mingw81_64/include/QtCore/qtypeinfo.h
 QtCore/qglobal.h
 -
@@ -862,16 +882,6 @@ QtCore/qpoint.h
 QtCore/qsize.h
 -
 
-C:/Qt/5.15.2/mingw81_64/include/QtGui/qicon.h
-QtGui/qtguiglobal.h
--
-QtCore/qsize.h
--
-QtCore/qlist.h
--
-QtGui/qpixmap.h
--
-
 C:/Qt/5.15.2/mingw81_64/include/QtGui/qimage.h
 QtGui/qtguiglobal.h
 -
@@ -1056,20 +1066,6 @@ C:/Qt/5.15.2/mingw81_64/include/QtWidgets/QApplication
 qapplication.h
 C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qapplication.h
 
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/QPushButton
-qpushbutton.h
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qpushbutton.h
-
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qabstractbutton.h
-QtWidgets/qtwidgetsglobal.h
--
-QtGui/qicon.h
--
-QtGui/qkeysequence.h
--
-QtWidgets/qwidget.h
--
-
 C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qapplication.h
 QtWidgets/qtwidgetsglobal.h
 -
@@ -1092,12 +1088,6 @@ C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qdesktopwidget.h
 QtWidgets/qtwidgetsglobal.h
 -
 QtWidgets/qwidget.h
--
-
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qpushbutton.h
-QtWidgets/qtwidgetsglobal.h
--
-QtWidgets/qabstractbutton.h
 -
 
 C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qsizepolicy.h
@@ -1149,8 +1139,20 @@ QtGui/qevent.h
 -
 
 C:/Users/Iurii/CLionProjects/Qt_tutorial/main.cpp
+iostream
+-
 QApplication
 -
-QPushButton
+QTimer
+-
+main.moc
+-
+
+Qt_tutorial_autogen/include/main.moc
+memory
+-
+QtCore/qbytearray.h
+-
+QtCore/qmetatype.h
 -
 
