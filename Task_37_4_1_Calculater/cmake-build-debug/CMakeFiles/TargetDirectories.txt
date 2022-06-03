@@ -1,0 +1,4 @@
+C:/Users/Iurii/CLionProjects/Task_37_4_1_Calculater/cmake-build-debug/CMakeFiles/Task_37_4_1_Calculater.dir
+C:/Users/Iurii/CLionProjects/Task_37_4_1_Calculater/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Iurii/CLionProjects/Task_37_4_1_Calculater/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Iurii/CLionProjects/Task_37_4_1_Calculater/cmake-build-debug/CMakeFiles/Task_37_4_1_Calculater_autogen.dir

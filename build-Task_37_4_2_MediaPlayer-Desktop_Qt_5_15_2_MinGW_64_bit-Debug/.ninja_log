@@ -1,0 +1,15 @@
+# ninja log v5
+1	174	6758780771070271	Task_37_4_2_MediaPlayer_autogen/timestamp	2b10acb3341949e6
+1	174	6758780771070271	Task_37_4_2_MediaPlayer_autogen/mocs_compilation.cpp	2b10acb3341949e6
+1	174	6758780771070271	C:/Users/Iurii/CLionProjects/build-Task_37_4_2_MediaPlayer-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/Task_37_4_2_MediaPlayer_autogen/timestamp	2b10acb3341949e6
+1	174	6758780771070271	C:/Users/Iurii/CLionProjects/build-Task_37_4_2_MediaPlayer-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/Task_37_4_2_MediaPlayer_autogen/mocs_compilation.cpp	2b10acb3341949e6
+11	104	6759651835967994	Task_37_4_2_MediaPlayer_autogen/EWIEGA46WW/qrc_qml.cpp	563e0d6411b9631c
+11	104	6759651835967994	C:/Users/Iurii/CLionProjects/build-Task_37_4_2_MediaPlayer-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/Task_37_4_2_MediaPlayer_autogen/EWIEGA46WW/qrc_qml.cpp	563e0d6411b9631c
+232	295	6758780772943255	CMakeFiles/Task_37_4_2_MediaPlayer.dir/Task_37_4_2_MediaPlayer_autogen/mocs_compilation.cpp.obj	e85eb595ecdf1f7b
+105	213	6759651837107287	CMakeFiles/Task_37_4_2_MediaPlayer.dir/Task_37_4_2_MediaPlayer_autogen/EWIEGA46WW/qrc_qml.cpp.obj	443dd0f3285fc113
+234	1441	6758780784394944	CMakeFiles/Task_37_4_2_MediaPlayer.dir/main.cpp.obj	7a082ea5d8429d25
+215	447	6759651839357767	Task_37_4_2_MediaPlayer.exe	378b02e9f2fede0d
+10	100	6759653323467403	Task_37_4_2_MediaPlayer_autogen/EWIEGA46WW/qrc_qml.cpp	563e0d6411b9631c
+10	100	6759653323467403	C:/Users/Iurii/CLionProjects/build-Task_37_4_2_MediaPlayer-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/Task_37_4_2_MediaPlayer_autogen/EWIEGA46WW/qrc_qml.cpp	563e0d6411b9631c
+102	216	6759653324657573	CMakeFiles/Task_37_4_2_MediaPlayer.dir/Task_37_4_2_MediaPlayer_autogen/EWIEGA46WW/qrc_qml.cpp.obj	443dd0f3285fc113
+217	447	6759653326898245	Task_37_4_2_MediaPlayer.exe	378b02e9f2fede0d

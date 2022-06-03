@@ -1,0 +1,4 @@
+C:/Users/Iurii/CLionProjects/Task_37_4_3_TV_remote_controller/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Iurii/CLionProjects/Task_37_4_3_TV_remote_controller/cmake-build-debug/CMakeFiles/Task_37_4_3_TV_remote_controller.dir
+C:/Users/Iurii/CLionProjects/Task_37_4_3_TV_remote_controller/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Iurii/CLionProjects/Task_37_4_3_TV_remote_controller/cmake-build-debug/CMakeFiles/Task_37_4_3_TV_remote_controller_autogen.dir

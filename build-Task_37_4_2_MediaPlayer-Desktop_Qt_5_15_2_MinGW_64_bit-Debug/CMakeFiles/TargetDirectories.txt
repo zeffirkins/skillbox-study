@@ -1,0 +1,5 @@
+C:/Users/Iurii/CLionProjects/build-Task_37_4_2_MediaPlayer-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/Task_37_4_2_MediaPlayer.dir
+C:/Users/Iurii/CLionProjects/build-Task_37_4_2_MediaPlayer-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Iurii/CLionProjects/build-Task_37_4_2_MediaPlayer-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Iurii/CLionProjects/build-Task_37_4_2_MediaPlayer-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/Task_37_4_2_MediaPlayer_autogen_timestamp_deps.dir
+C:/Users/Iurii/CLionProjects/build-Task_37_4_2_MediaPlayer-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/Task_37_4_2_MediaPlayer_autogen.dir
