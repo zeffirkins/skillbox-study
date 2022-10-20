@@ -87,7 +87,7 @@ int main(int argc, char *argv[]) {
     layout -> addWidget(circle);
     layout -> addWidget(slider);
 
-    QObject::connect(slider, &QSlider::valueChanged, circle,[slider, circle](int newValue) {
+    QObject::connect(slider, &QSlider::valueChanged,[&slider, &circle](int newValue) {
         if (newValue >= 0 && newValue <= 33) {
             circle->setGreen();
         }else if (newValue >= 34 && newValue <= 66) {
